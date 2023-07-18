@@ -4,4 +4,4 @@ Hlo , friends we can say that this is the second pahse of our project where we h
 This is done by the help of <aframe> in html.
 
 # 3D-Model
-Scenes are taken from the Sketchfab.
+Scenes and Model are taken from the Sketchfab.
